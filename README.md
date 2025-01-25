@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViudiraTech&repo=Uinxed-Kernel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<hr>
+
+![](https://img.shields.io/badge/Licens-MIT-orange) ![](https://img.shields.io/badge/License-GPL-green) ![](https://img.shields.io/badge/Compiler-GCC-blue)
+![](https://img.shields.io/badge/Language-C-grey) ![](https://img.shields.io/badge/Language-Assembly-brown)
