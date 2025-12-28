@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainy101112&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="github.com/rainy101112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rainy101112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rainy101112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rainy101112's GitHub Stats" />
 </a>
 
 <hr>
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-![](https://img.shields.io/badge/Licens-MIT-orange) ![](https://img.shields.io/badge/License-GPL-green) ![](https://img.shields.io/badge/Compiler-GCC-blue)
+![](https://img.shields.io/badge/License-MIT-orange) ![](https://img.shields.io/badge/License-GPL-green) ![](https://img.shields.io/badge/Compiler-GCC-blue)
 ![](https://img.shields.io/badge/Language-C-grey) ![](https://img.shields.io/badge/Language-Assembly-brown)
