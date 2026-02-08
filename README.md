@@ -1,35 +1,27 @@
-## Rainy101112
+## Hi👋 I'm Rainy101112
 
-I am a student from China. Making low-level computer programs like Operating System.
-<br>
-
-<!--
-**Rainy101112/rainy101112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="github.com/rainy101112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainy101112&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="github.com/rainy101112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rainy101112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rainy101112's GitHub Stats" />
-</a>
+😎 Hello! I'm a student from China 🇨🇳. Started programming since 2020. Unknown computer expert ;) <br>
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViudiraTech&repo=Uinxed-Kernel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+🤔 Something about me ...
+
+- 🔧 *Senior program optimization engineer.* <br>
+- 💻 *Has two years of experience developing operating systems. Learning computer underlying principles.* <br>
+- ♥️ *Do wonderful stuffs. Expected to learn more PLs.*
 
 <hr>
+
+I originally wanted to put some status cards here, but the APIs dead 😭
+
+<hr>
+
+### ☎️ Contact me
+- 📧 Mail: Rainy101112@163.com
+
+<hr>
+
+### I love Free & Open Source Software!!!
 
 ![](https://img.shields.io/badge/License-MIT-orange) ![](https://img.shields.io/badge/License-GPL-green) ![](https://img.shields.io/badge/Compiler-GCC-blue)
 ![](https://img.shields.io/badge/Language-C-grey) ![](https://img.shields.io/badge/Language-Assembly-brown)
